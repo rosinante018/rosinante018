@@ -18,7 +18,7 @@ I am a third-year Computer Science student passionate about coding and creating 
 
 📫 **Get in Touch:**  
 Feel free to connect with me for collaborations, discussions, or just to say hi!  
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/suraj-c-268648253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/rosinante018)
 
 ---
 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
